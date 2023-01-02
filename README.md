@@ -1,40 +1,47 @@
-# Apna-Jiomart
+# Jiomart
 
-<img src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1667281294_bLOCK_BUSTER_dEALS_1_Desktop.jpg" alt="apnamart" />
-<hr>
- Jiomart - Choose and Buy Online Grocery from a wide range of fruits, vegetables, baby care products, personal care products and much more. Shop Now !
+### It is one of the India's top E-commerce Website. It deals with a wide variety of products including groceries, fashion, electronics, etc.. .
 
-## Using Languages & Tools 🧰
-React
+# Prerequisities
 
-Chakra-UI
-
-Firebase
-
-External CSS
+- React
+- ChakraUI
+- CSS
+- JavaScript
+- Firebase
 
 
 
-<img src="https://user-images.githubusercontent.com/101393657/208374550-2ff411d9-dbbc-4e4c-b3e6-d16dffd9c9e1.png" alt="apnamart" />
+# Sceenshots
 
-## Important Links 🔗 
-<a href="https://rad-sopapillas-d1db1b.netlify.app/">Deployed Netlify Link</a>
+> HOME PAGE
+
+![homepage](https://user-images.githubusercontent.com/107534043/203550495-3be1bbdb-1c66-406a-9255-3d6aea2515ad.png)
 
 
-## Features
-- Responsive Home Page.
-- Home-Page
-- Product page show appending data.
-- Add to cart page successfully.
-- Checkout page  and payment done successfully. 
+> SIGN IN PAGE
 
-## Area of Responsibility
+![signin](https://user-images.githubusercontent.com/107534043/203550941-e867b519-5eba-4d92-92dd-e2044ac30ebd.png)
 
-- Integrated all the pages successfully.
-- Developed the Payment page,Cart Page , Login/Signup Page.
 
-## Type 
-premiumFruits
-electronics
-fruit&Vegi
-freshFruits
+> PRODUCTS PAGE
+
+![productspage](https://user-images.githubusercontent.com/107534043/203551568-113e567e-fd4f-41b1-a34d-343c9d518f77.png)
+
+
+> CART PAGE
+
+![cartpage](https://user-images.githubusercontent.com/107534043/203551849-98ab9438-9252-4957-ad8b-3282fc8aaac0.png)
+
+
+> PROFILE PAGE
+
+![profilepage](https://user-images.githubusercontent.com/107534043/203552337-3e2aa312-5bd6-46f7-b53f-c118eb6a16cc.png)
+![profilepage](https://user-images.githubusercontent.com/107534043/203553652-dd7f5def-7fd0-4334-97e5-4ab51d81680e.png)
+# What did I Learn!
+
+
+- How to work with React, ChakraUI and Firebase
+- How to authenticate user through phone number -> verifying with OTP.
+- Global cart componets
+- CRUD operation
